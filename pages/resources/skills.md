@@ -76,7 +76,8 @@ This list has the following categories:
   - Cryptography
       - Blockchain
   - Compiler Construction/Design
-  - GPU/FPGA Programming
+  - GPU Programming
+  - [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array) Programming
   - Scientific Computing
   - Computer Networking
   - Operating Systems
